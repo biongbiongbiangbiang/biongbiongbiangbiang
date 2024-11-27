@@ -1,10 +1,6 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/overview.svg#gh-dark-mode-only"
-        alt="pixel-night-banner ">
-![](https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/languages.svg#gh-light-mode-only)
+    <img src="https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/overview.svg#gh-dark-mode-only"/>   
+    <img src="https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/languages.svg#gh-dark-mode-only"/>
 </p> 
 
 <p >   
