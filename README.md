@@ -16,14 +16,11 @@
     <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biongbiongbiangbiang&theme=tokyonight" />
 </p>
-
-<p align="center">
-    <img src="https://github.com/biongbiongbiangbiang/biongbiongbiangbiang/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-</p>
 ![](https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/biongbiongbiangbiang/stats/master/generated/languages.svg#gh-light-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+
 
